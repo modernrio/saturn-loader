@@ -6,7 +6,7 @@
 
 #define VID 0x0403
 #define PID 0x6010
-#define DESCRIPTION "Saturn Spartan 6 FPGA Module"
+#define DESCRIPTION "Waxwing Spartan 6 FPGA Board"
 
 #define OPTIONS_SKIP_VALIDATION 0x10
 #define OPTIONS_LIST_DEVICES    0x08
